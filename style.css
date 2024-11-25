@@ -1,0 +1,10 @@
+body{margin: 10%; background: linear-gradient( #c9a9e2 0%, #79438f 100%); background-repeat: repeat-x; width: 100vw; height: 3000px;}
+
+div{margin: 30px; text-align: center; }
+.cuadrado{width: 100px; height: 100px; background: #ff6565; position: relative; top: 400px;}
+.circulo{width: 100px; height: 100px; background: #73ff49; border-radius: 50%; position: absolute; left: 400px;}
+.rombo{width: 100px; height: 100px; background: #5efaff; transform: rotate(45deg); position: sticky; bottom: 400px;}
+
+aside{ width: 700px; height: auto; background: #fa0; position: fixed;top: 0; font-style: italic; font-weight: bold;}
+
+summary, details{font-size: 20px; color: #fff;}
